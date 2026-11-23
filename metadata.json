@@ -1,0 +1,6 @@
+{
+  "name": "UniMarket",
+  "description": "El marketplace universitario donde los estudiantes compran, venden e intercambian productos y contratan servicios entre compañeros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
